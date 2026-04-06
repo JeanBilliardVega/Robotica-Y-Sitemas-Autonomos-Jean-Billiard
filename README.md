@@ -55,3 +55,5 @@ Experimento 3: Rotación en el lugar (vr = -vl)
 Las ruedas giran a igual velocidad pero en sentido contrario. El robot rota sobre su propio eje central sin desplazarse linealmente.
 
 Observación: El centro instantáneo de rotación coincide exactamente con el centro geométrico del robot.
+
+Las pruebas del experimento exitoso se encuentran en la carpeta: [Pruebas en Video del Funcionamiento del Robot]
